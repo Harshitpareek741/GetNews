@@ -17,7 +17,7 @@ export default class Nextbar extends Component {
        
       <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/general">Home</Link></li>
         
-          <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/business">Business</Link></li>
+          <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/business">Emergency</Link></li>
           <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/entertainment">Entertainment</Link></li>
           <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/health">Health</Link></li>
           <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/science">Science</Link></li>
